@@ -1,0 +1,30 @@
+:root{
+    --cor-principal:#303841;
+    --cor-secundaria: #45567d;
+    --cor-neutra:#f0f0f0;
+    --cor-destaque: #be3144
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+    width: 10%;
+}
